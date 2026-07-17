@@ -98,3 +98,76 @@ Full Stack Developer 💻 | Final Year Student 🎓 | REC Mirzapur (AKTU)
 ✔ Learning Industry Best Practices
 
 ---
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Sudhanshuyadav123">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+<i>
+
+"Success doesn't come from what you know.
+
+It comes from what you build."
+
+</i>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy building Full Stack Applications.
+- 🚀 Always excited to learn new technologies.
+- 🌱 Currently focused on Backend Development.
+- 📚 Love turning ideas into real-world projects.
+- ☕ Coding + Coffee = Productivity.
+
+---
+
+# 🤝 Open For
+
+✅ Internship Opportunities
+
+✅ Full Stack Development
+
+✅ Open Source Collaboration
+
+✅ Freelance Projects
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
