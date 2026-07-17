@@ -48,16 +48,20 @@ Full Stack Developer 💻 | Final Year Student 🎓 | REC Mirzapur (AKTU)
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_GMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:syaduvanshi99355@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/Sudhanshuyadav123">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Sudhanshuyadav123" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
 
 </p>
