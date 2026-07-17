@@ -3,7 +3,12 @@
 ### Full Stack Developer | Final Year B.Tech Student | REC Mirzapur (AKTU)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=0EA5E9&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Java+%26+Backend;Always+Learning+New+Things+🚀"/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=0EA5E9&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Java+%26+Backend;Always+Learning+New+Things+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</p>
 </p>
 
 <p align="center">
