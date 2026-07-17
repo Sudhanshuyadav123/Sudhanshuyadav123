@@ -101,3 +101,65 @@ Full Stack Developer | Final Year Student @ REC Mirzapur (AKTU)
 <img src="https://streak-stats.demolab.com?user=Sudhanshuyadav123&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshuyadav123&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building Full Stack Web Applications
+- 🌱 Learning Java & Backend Development
+- 💡 Improving DSA & Problem Solving
+- 🚀 Exploring REST APIs & Authentication
+- 🤝 Open to Collaboration on Web Development Projects
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshuyadav123&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it's bad."</i><br>
+<b>— Cory House</b>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+<a href="https://github.com/Sudhanshuyadav123">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
