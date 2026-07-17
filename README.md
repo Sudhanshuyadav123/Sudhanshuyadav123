@@ -1,144 +1,50 @@
-<h1 align="center">
-Hi 👋, I'm Sudhanshu Yadav
-</h1>
+<h1 align="center">Hi 👋, I'm Sudhanshu Yadav</h1>
 
 <h3 align="center">
-Full Stack Developer | Final Year Student @ REC Mirzapur (AKTU)
+Full Stack Developer 💻 | Final Year Student 🎓 | REC Mirzapur (AKTU)
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Learning+Java+%26+Backend+Development;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Learning+Java+%26+Backend+Development;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Final Year B.Tech Student at **Rajkiya Engineering College, Mirzapur (AKTU)**
-- 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **Java & Backend Development**
-- ⚡ Love building modern and responsive web applications
-- 🤝 Always interested in learning new technologies and collaborating on exciting projects
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<p align="center">
+<a href="https://github.com/Sudhanshuyadav123">
+<img src="https://komarev.com/ghpvc/?username=Sudhanshuyadav123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="https://github.com/Sudhanshuyadav123?tab=followers">
+<img src="https://img.shields.io/github/followers/Sudhanshuyadav123?logo=github&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Sudhanshuyadav123">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://img.shields.io/github/stars/Sudhanshuyadav123?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
 
-<p align="center">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+🎓 Final Year B.Tech Student at **Rajkiya Engineering College, Mirzapur (AKTU)**
 
-<img src="https://skillicons.dev/icons?i=css"/>
+💻 Passionate about **Full Stack Web Development**
 
-<img src="https://skillicons.dev/icons?i=js"/>
+🌱 Currently Learning **Java & Backend Development**
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+🚀 Building Modern Web Applications using MERN Stack
 
-<img src="https://skillicons.dev/icons?i=react"/>
+🎯 Goal: Become a Professional Full Stack Developer
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+⚡ Fun Fact: I love solving real-world problems through code.
 
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-## 📚 Currently Learning
-
-✔ Java
-
-✔ Backend Development
-
-✔ REST APIs
-
-✔ Authentication
-
-✔ Database Design
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudhanshuyadav123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuyadav123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sudhanshuyadav123&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshuyadav123&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building Full Stack Web Applications
-- 🌱 Learning Java & Backend Development
-- 💡 Improving DSA & Problem Solving
-- 🚀 Exploring REST APIs & Authentication
-- 🤝 Open to Collaboration on Web Development Projects
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshuyadav123&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 💬 Quote of the Day
-
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it's bad."</i><br>
-<b>— Cory House</b>
-</p>
-
----
-
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -146,7 +52,7 @@ Full Stack Developer | Final Year Student @ REC Mirzapur (AKTU)
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:YOUR_GMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
@@ -158,8 +64,37 @@ Full Stack Developer | Final Year Student @ REC Mirzapur (AKTU)
 
 ---
 
+# 💻 Tech Stack
+
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 
 </p>
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Java
+- ⚙️ Backend Development
+- 🔗 REST APIs
+- 🔐 Authentication & Authorization
+- 🗄️ Database Design
+- 🚀 Node.js Ecosystem
+
+---
+
+# 🎯 Current Focus
+
+✔ Building MERN Stack Projects
+
+✔ Strengthening Backend Skills
+
+✔ Improving DSA & Problem Solving
+
+✔ Preparing for Software Development Roles
+
+✔ Learning Industry Best Practices
+
+---
