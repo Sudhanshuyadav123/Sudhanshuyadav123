@@ -98,26 +98,20 @@ Full Stack Developer 💻 | Final Year Student 🎓 | REC Mirzapur (AKTU)
 ✔ Learning Industry Best Practices
 
 ---
-# 📫 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-8005862a4" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<a href="mailto:YOUR_REAL_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/Sudhanshuyadav123">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<a href="https://github.com/Sudhanshuyadav123" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -171,3 +165,36 @@ It comes from what you build."
 ⭐ Thanks for visiting my profile ⭐
 
 </h3>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💼 Portfolio Website | Personal Portfolio | HTML, CSS, JavaScript |
+| 🌦 Weather App | Weather Forecast Website | HTML, CSS, JavaScript |
+| 🛒 E-Commerce Website | Shopping Website | React, Node.js, MongoDB |
+| 🏥 Hospital Management | College Project | Java, MySQL |
+| 📚 Student Management | CRUD Application | Java, SQL |
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Skilled Full Stack Developer
+- ✅ Master Java Backend
+- ✅ Build 15+ Projects
+- ✅ Improve DSA
+- ✅ Crack a Software Developer Internship
+- ✅ Contribute to Open Source
+
+---
+
+# 💼 Open To
+
+- 💻 Full Stack Development
+- 🤝 Open Source Collaboration
+- 🎯 Internship Opportunities
+- 📚 Learning New Technologies
+
+---
